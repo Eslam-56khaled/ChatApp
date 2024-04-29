@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074442014071",
+    "project_id": "fire-chat-c582f",
+    "storage_bucket": "fire-chat-c582f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074442014071:android:48944ed751599de0856572",
+        "android_client_info": {
+          "package_name": "com.example.chat_fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASQD6nq-q0hmRd2z4TH-YifNFxxjFeJSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
